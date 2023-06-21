@@ -10,7 +10,9 @@
 |   **Coursera**    | **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** | Hyperparameter tuning / Batch Normalization(Tensorflow 활용) 등 | 2022.06 ~ 2022.07 | https://www.coursera.org/account/accomplishments/certificate/G2P9YRL5UJ4K |
 |   **Coursera**    | **Structuring Machine Learning Projects** | 머신러닝 개념(end-to-end learning, transfer learning, and multi-task learning 등) 학습  | 2022.07 ~ 2022.08 | https://www.coursera.org/account/accomplishments/certificate/WVC4E8KESB5F |
 |   **Coursera**    | **Convolutional Neural Networks** | ResNet학습, R-CNN 구현(Keras 활용) / YOLO를 이용한 자동차 감지 / 얼굴인식 / 특정 예술작품 풍으로 이미지 합성 등 | 2022.08 ~ 2022.09 | https://www.coursera.org/account/accomplishments/certificate/YRUFVF236W7Z |
-   **Coursera**    | **Sequence Models**  | RNN 학습 / LSTM·GRU 모델 적용 / Bleu score / Attention 등 | 2022.09 ~ 2022.10 | https://www.coursera.org/account/accomplishments/certificate/544KBP777TFL |
+|   **Coursera**    | **Sequence Models**  | RNN 학습 / LSTM·GRU 모델 적용 / Bleu score / Attention 등 | 2022.09 ~ 2022.10 | https://www.coursera.org/account/accomplishments/certificate/544KBP777TFL |
+|   **Coursera**    | **Mathematics for Machine Learning: Linear Algebra**  | 선형대수 학습 | 2023.06 ~ 진행중 | N/A |
+|   **Coursera**    | **Foundations: Data, Data, Everywhere**  | Google data analytics professional certificate 과정 | 2023.06 ~ 진행중 | N/A |
 
 ### 관련도서
 1. Do it! 점프 투 파이썬 / 박응용 저 / 이지스퍼블리싱
