@@ -7,7 +7,7 @@
 |    **Coursera**  | **AI for everyone** | AI의 적용분야 및 사업성 평가 방법론 / AI 프로젝트의 가이드라인 전략 학습 | 2022.05 ~ 2022.05 | https://www.coursera.org/account/accomplishments/certificate/HKVAWDUMET2S |
 |    **NVIDIA Deep learning institute**    | **Fundamentals of Deep learning** | 딥러닝 기초 및 응용 (backpropagation, image classification 등) 개괄 | 2022.05 ~ 2022.05 | https://courses.nvidia.com/certificates/1bcdc277b14c48bebec4ad0ebe8bbdad/ |
 |   **Coursera**    | **Deep Learning Specialization** | 딥러닝 기초 (Hyperparameter tuning, regularization 등) 및 RNN (LSTM, GRU, YOLO, Bleu score 등), CNN (ResNet, R-CNN 등) 학습 | 2022.06 ~ 2022.11 | https://coursera.org/share/aeec8bb5be59489c3fdadb17534e4241 |
-|   **Coursera**    | **Google Data Analytics Professional Certificate**  | 데이터 분석 및 시각화를 위한 sql, R, tableu 역량 함양 | 2023.06 ~ 진행중 | N/A |
+|   **Coursera**    | **Google Data Analytics Professional Certificate**  | 데이터 분석 및 시각화를 위한 SQL, R, Tableu 역량 함양 | 2023.06 ~ 2023.07 | https://www.coursera.org/account/accomplishments/specialization/certificate/C7QQ584PEQLM |
 |   **Coursera**    | **Google Advanced Data Analytics Professional Certificate**  | 데이터에 기반한 Predictive modeling을 위한 통계, 머신러닝 역량 함양 | 2023.07 ~ 진행중 | N/A |
 |   **Coursera**    | **Google IT Automation with Python Professional Certificate**  | 파이썬에 기반한 모델 자동화 스크립트 작성 역량을 함양 | 2023.07 ~ 진행중 | N/A |
 |   **Coursera**    | **Mathematics for Machine Learning: Linear Algebra**  | 딥러닝/머신러닝 모델 이해를 위한 선형대수 학습 | 2023.06 ~ 진행중 | N/A |
